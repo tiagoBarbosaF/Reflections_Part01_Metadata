@@ -1,0 +1,8 @@
+C:\Users\tiago.farias\dev\Alura\Reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\MyBank.Portal.exe.config
+C:\Users\tiago.farias\dev\Alura\Reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\MyBank.Portal.exe
+C:\Users\tiago.farias\dev\Alura\Reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\MyBank.Portal.pdb
+C:\Users\tiago.farias\dev\Alura\Reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\MyBank.Portal.csproj.AssemblyReference.cache
+C:\Users\tiago.farias\dev\Alura\Reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\MyBank.Portal.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago.farias\dev\Alura\Reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\MyBank.Portal.csproj.CoreCompileInputs.cache
+C:\Users\tiago.farias\dev\Alura\Reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\MyBank.Portal.exe
+C:\Users\tiago.farias\dev\Alura\Reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\MyBank.Portal.pdb
